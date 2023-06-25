@@ -2,11 +2,14 @@
 /* h2{
 	text-align:center;
 } */
-.caption{
+caption{
 	margin:0px;
-/* 	text-align:t; */
+font-size:20px;
 }
-table{
+table,th,td{
 	background-color:yellow;
-	border:1px solid black;
+	border-top:1px solid gray;
+	border-left:1px solid gray;
+	border-bottom:1px solid black;
+	border-right:1px solid black;
 }
