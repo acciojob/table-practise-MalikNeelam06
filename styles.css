@@ -6,7 +6,10 @@ caption{
 	margin:0px;
 font-size:20px;
 }
-table,th,td{
+table{
+	border:1px solid rgb(0,0,0);
+}
+th,td{
 	background-color:yellow;
 	border-top:1px solid gray;
 	border-left:1px solid gray;
